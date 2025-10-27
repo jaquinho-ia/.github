@@ -1,6 +1,6 @@
 # Javaquinho IA
 
-💰 **Javaquinho IA** é um sistema em **Java Spring Boot** para gerenciar entradas e saídas financeiras, permitindo cadastro de usuários, categorias e registro de movimentações.
+**Javaquinho IA** é um sistema em **Java Spring Boot** para gerenciar entradas e saídas financeiras, permitindo cadastro de usuários, categorias e registro de movimentações.
 
 ## Funcionalidades
 - Cadastro de usuários e categorias
