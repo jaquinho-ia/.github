@@ -1,6 +1,6 @@
 # Jaquinho IA
 
-<img src="banner.png"></img>
+![Banner do Jaquinho IA](banner.png)
 
 **Jaquinho IA** é um sistema em **Java Spring Boot** para gerenciar entradas e saídas financeiras, permitindo cadastro de usuários, categorias e registro de movimentações.
 
