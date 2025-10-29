@@ -1,7 +1,7 @@
 # Jaquinho IA
 
 <p aling="center">
-    <img src="banner.png" alt="#">
+    <img src="profile/banner.png" alt="#">
 </p>
 
 **Jaquinho IA** é um sistema em **Java Spring Boot** para gerenciar entradas e saídas financeiras, permitindo cadastro de usuários, categorias e registro de movimentações.
@@ -24,5 +24,5 @@
 ## Instalação
 Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/javaquinho-ia.git
+git clone https://github.com/seuusuario/jaquinho-ia.git
 ```
